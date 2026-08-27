@@ -10,10 +10,10 @@ I'm a passionate Software Engineer, Full-Stack Developer, and AI/ML Engineer wit
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatBinIbrahim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=ArafatBinIbrahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created by Kazi Arafat Bin Ibrahim -->
