@@ -1,13 +1,13 @@
 # 💫 About Me:
 I'm a passionate Software Engineer, Full-Stack Developer, and AI/ML Engineer with a strong foundation in building intelligent, end-to-end applications. I specialize in modern frontend technologies like React and Next.js, combined with clean, semantic HTML and CSS to create responsive, user-friendly interfaces. On the backend, I work with Python and Java to build robust, scalable systems.<br><br>As an AI/ML Engineer, I'm deeply passionate about designing and building intelligent systems — from data preprocessing and model development to deploying machine learning solutions into real-world applications. I enjoy exploring how AI can be integrated into practical products to solve meaningful problems.<br><br>Alongside development, I'm also into DevOps practices — using Docker for containerization and AWS for cloud deployment and infrastructure management.<br><br>I'm an active competitive programmer, regularly solving algorithmic challenges on LeetCode and Codeforces to sharpen my problem-solving skills and strengthen my understanding of data structures and algorithms.<br><br>I'm always open to collaborating on interesting projects, contributing to open-source, and connecting with like-minded developers in the tech community.
 
-Frontend: React + TypeScript (UI)
+**Frontend:** React + TypeScript (UI)
 
-Backend: Node.js (with TypeScript) OR Python (API & Server-er jonno)
+**Backend:** Node.js (with TypeScript) OR Python (API & Server-er jonno)
 
-Database: MongoDB (Data store)
+**Database:** MongoDB (Data store)
 
-AI/ML / RAG: Python (Intelligent features)
+**AI/ML / RAG:** Python (Intelligent features)
 
 
 ## 🌐 Socials:
