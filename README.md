@@ -1,23 +1,79 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast;B.Sc.+CS+%40+BRAC+University" alt="Typing SVG" /> </a> </div>
-👋 About Me
+<div align="center">
 
-------------------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast;B.Sc.+CS+%40+BRAC+University" alt="Typing SVG" />
+</a>
 
-I'm Kazi Arafat Bin Ibrahim, a Software Engineer specialized in Full-Stack Development, and a Computer Science student at BRAC University, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
+</div>
 
-🖥️ Frontend — I build fast, accessible, and user-friendly interfaces with React, Next.js, and TypeScript, backed by semantic HTML and modern CSS.
+## 👋 About Me
 
-⚙️ Backend — I design APIs and server-side logic with Node.js (TypeScript), Python, and Django, choosing the right tool for each project's needs.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=90&section=header" width="100%" alt="divider" />
 
-🗄️ Database — I model and manage data using MongoDB and MySQL, picking the right fit between NoSQL flexibility and relational structure depending on the use case.
+<table>
+<tr>
+<td width="140" align="center" valign="top">
+<img src="https://github.com/ArafatBinIbrahim.png" width="120" style="border-radius:50%" alt="Kazi Arafat Bin Ibrahim" />
+</td>
+<td valign="top">
 
-🤖 AI/ML — I explore intelligent systems end-to-end, from data preprocessing to model development, with a focus on integrating practical AI features — including RAG-based tools — into real products.
-
-🐳 DevOps — I containerize applications with Docker, deploy them to hosting site, and automate testing and delivery with CI/CD pipelines using GitHub Actions.
-
-🧩 Problem Solving — I sharpen my grasp of data structures and algorithms by regularly solving challenges on LeetCode and Codeforces.
+I'm **Kazi Arafat Bin Ibrahim**, a Software Engineer specialized in Full-Stack Development, and a Computer Science student at **BRAC University**, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
 
 I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=848895&center=true&vCenter=true&width=560&height=30&lines=%F0%9F%9A%80+Currently+building%3A+AI-powered+full-stack+apps;%F0%9F%93%9A+Currently+learning%3A+Distributed+systems+%26+RAG;%F0%9F%A7%A9+Solving+algorithms+on+LeetCode+%26+Codeforces" alt="rotating status" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/-Frontend-14F195?style=flat-square&labelColor=1a1a1a)
+![Backend](https://img.shields.io/badge/-Backend-9945FF?style=flat-square&labelColor=1a1a1a)
+![Database](https://img.shields.io/badge/-Database-00BCD4?style=flat-square&labelColor=1a1a1a)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6B6B?style=flat-square&labelColor=1a1a1a)
+![DevOps](https://img.shields.io/badge/-DevOps-FFD43B?style=flat-square&labelColor=1a1a1a)
+![Problem_Solving](https://img.shields.io/badge/-Problem%20Solving-4DABF7?style=flat-square&labelColor=1a1a1a)
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="60" align="center">🖥️</td>
+<td><b>Frontend</b><br/>I build fast, accessible, and user-friendly interfaces with <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b>, backed by semantic HTML and modern CSS.</td>
+</tr>
+<tr>
+<td align="center">⚙️</td>
+<td><b>Backend</b><br/>I design APIs and server-side logic with <b>Node.js (TypeScript)</b>, <b>Python</b>, and <b>Django</b>, choosing the right tool for each project's needs.</td>
+</tr>
+<tr>
+<td align="center">🗄️</td>
+<td><b>Database</b><br/>I model and manage data using <b>MongoDB</b> and <b>MySQL</b>, picking the right fit between NoSQL flexibility and relational structure depending on the use case.</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>AI/ML</b><br/>I explore intelligent systems end-to-end, from data preprocessing to model development, with a focus on integrating practical AI features — including <b>RAG-based tools</b> — into real products.</td>
+</tr>
+<tr>
+<td align="center">🐳</td>
+<td><b>DevOps</b><br/>I containerize applications with <b>Docker</b>, deploy them to <b>AWS</b>, and automate testing and delivery with <b>CI/CD pipelines</b> using GitHub Actions.</td>
+</tr>
+<tr>
+<td align="center">🧩</td>
+<td><b>Problem Solving</b><br/>I sharpen my grasp of data structures and algorithms by regularly solving challenges on <b>LeetCode</b> and <b>Codeforces</b>.</td>
+</tr>
+</table>
 
 <br>
 
@@ -51,6 +107,8 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Languages & CS Fundamentals**
@@ -83,7 +141,8 @@ I'm always open to collaborating on interesting projects, contributing to open s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
-
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 </details>
 
@@ -93,9 +152,17 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatBinIbrahim&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
 </div>
 
 ## ✍️ Quote
