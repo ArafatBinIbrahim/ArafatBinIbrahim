@@ -1,13 +1,32 @@
-# 💫 About Me:
-I'm a passionate Software Engineer, Full-Stack Developer, and AI/ML Engineer with a strong foundation in building intelligent, end-to-end applications. I specialize in modern frontend technologies like React and Next.js, combined with clean, semantic HTML and CSS to create responsive, user-friendly interfaces. On the backend, I work with Python and Java to build robust, scalable systems.<br><br>As an AI/ML Engineer, I'm deeply passionate about designing and building intelligent systems — from data preprocessing and model development to deploying machine learning solutions into real-world applications. I enjoy exploring how AI can be integrated into practical products to solve meaningful problems.<br><br>Alongside development, I'm also into DevOps practices — using Docker for containerization and AWS for cloud deployment and infrastructure management.<br><br>I'm an active competitive programmer, regularly solving algorithmic challenges on LeetCode and Codeforces to sharpen my problem-solving skills and strengthen my understanding of data structures and algorithms.<br><br>I'm always open to collaborating on interesting projects, contributing to open-source, and connecting with like-minded developers in the tech community.
+## 👋 About Me
 
-**Frontend:** React + TypeScript (UI)
+I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer with a growing focus on AI/ML engineering. I build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable backend systems.
 
-**Backend:** Node.js (with TypeScript) OR Python (API & Server)
+**Frontend:** I work with React, Next.js, and TypeScript to build fast, accessible, and user-friendly interfaces using semantic HTML and modern CSS.
 
-**Database:** MongoDB (Data store)
+**Backend:** I build APIs and server-side logic using Node.js (TypeScript) and Python, depending on the project's needs.
 
-**AI/ML / RAG:** Python (Intelligent features)
+**AI/ML:** I'm exploring intelligent systems — from data preprocessing to model development — with the goal of integrating practical AI features, including RAG-based tools, into real products.
+
+**DevOps:** I containerize applications with Docker and deploy, and set up CI/CD pipelines (GitHub Actions) to automate testing and deployment.
+
+I'm also an active competitive programmer, regularly solving algorithmic problems on LeetCode and Codeforces to strengthen my understanding of data structures and algorithms.
+
+I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
+
+## 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · HTML5 · CSS3
+**Backend:** Node.js (TypeScript) · Python
+**Database:** MongoDB, Django
+**AI/ML:** Python (data preprocessing, model development, RAG)
+**DevOps:** Docker · CI/CD (GitHub Actions)
+
+## 🔗 Connect
+
+- 🌐 Portfolio: https://arafatbinibrahim.github.io/NEw_Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/
+- 📘 Facebook: KaziArafatBinIbrahim24
 
 
 ## 🌐 Socials:
