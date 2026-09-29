@@ -1,154 +1,383 @@
-<div align="center">
+::: {align="center"}
+<a href="https://git.io/typing-svg">{=html} <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;Backend+%26+API+Engineer;AI%2FML+Enthusiast;Competitive+Programmer"
+    alt="Typing SVG"
+  />{=html} </a>{=html}
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
-</a>
+<br>{=html}
 
-</div>
+<p>
 
-## 👋 About Me
+<a href="https://github.com/ArafatBinIbrahim">{=html}
+<img src="https://img.shields.io/github/followers/ArafatBinIbrahim?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=14F195" />{=html}
+</a>{=html} <a href="https://github.com/ArafatBinIbrahim">{=html}
+<img src="https://img.shields.io/github/stars/ArafatBinIbrahim?label=Profile%20Stars&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6" />{=html}
+</a>{=html}
+<a href="https://komarev.com/ghpvc/?username=ArafatBinIbrahim">{=html}
+<img src="https://komarev.com/ghpvc/?username=ArafatBinIbrahim&style=for-the-badge&color=14F195&label=PROFILE+VIEWS" />{=html}
+</a>{=html}
 
-I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer with a growing focus on AI/ML engineering. I build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable backend systems.
+</p>
 
-- 🖥️ **Frontend:** I work with React, Next.js, and TypeScript to build fast, accessible, and user-friendly interfaces using semantic HTML and modern CSS.
-- ⚙️ **Backend:** I build APIs and server-side logic using Node.js (TypeScript), Python, and Django, depending on the project's needs.
-- 🤖 **AI/ML:** I'm exploring intelligent systems — from data preprocessing to model development — with the goal of integrating practical AI features, including RAG-based tools, into real products.
-- 🐳 **DevOps:** I containerize applications with Docker and deploy , and set up CI/CD pipelines with GitHub Actions to automate testing and deployment.
-- 🧩 **Competitive Programming:** I regularly solve algorithmic problems on LeetCode and Codeforces to strengthen my understanding of data structures and algorithms.
+<p>
 
-I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
+<strong>{=html}Building scalable web applications, intelligent
+systems, and developer-focused solutions.</strong>{=html}
 
-<br>
+</p>
 
-## 🛠️ Tech Stack
+:::
 
-<table>
-<tr>
-<td valign="top" width="50%">
+👨‍💻 About Me
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer and AI/ML
+enthusiast focused on building modern, scalable, and
+production-oriented software.
 
-**Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+I enjoy working across the entire development lifecycle --- from
+designing responsive interfaces and building robust APIs to modeling
+data, containerizing applications, and integrating intelligent features
+into real-world products.
 
-</td>
-<td valign="top" width="50%">
+What I work with
 
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+🖥️ Frontend Engineering --- React, Next.js, TypeScript, Tailwind
+CSS, responsive UI, accessibility, and component-driven development.
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+⚙️ Backend Engineering --- Node.js, Express.js, Python, Django,
+FastAPI, RESTful APIs, authentication, authorization, and backend
+architecture.
 
-**Languages & CS Fundamentals**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+🗄️ Database Engineering --- PostgreSQL, MongoDB, MySQL, Redis,
+database design, ORM/ODM workflows, indexing, and data modeling.
 
-</td>
-</tr>
-</table>
+🤖 AI/ML Engineering --- Python, NumPy, Pandas, scikit-learn,
+model development, data preprocessing, experimentation, and
+RAG-oriented applications.
+
+🧠 Intelligent Applications --- Exploring LLM-powered
+applications, embeddings, vector search, retrieval pipelines, and
+AI-assisted product features.
+
+🐳 DevOps & Deployment --- Docker, Git, GitHub Actions, CI/CD,
+environment configuration, and deployment workflows.
+
+🧩 Problem Solving --- Regularly practicing Data Structures &
+Algorithms through competitive programming and coding platforms.
+
+My goal: turn ideas into reliable, maintainable, and scalable
+software.
+
+🚀 Engineering Focus
+
+::: {align="center"}
+
+               Area                   Focus
+
+   🌐 **Full-Stack Development**      React · Next.js · TypeScript ·
+                                      Node.js · Python
+
+       ⚙️ **Backend & APIs**          Express.js · Django · FastAPI ·
+                                      REST APIs
+
+      🗄️ **Data & Databases**         PostgreSQL · MongoDB · MySQL ·
+                                      Redis
+
+          🤖 **AI / ML**              Python · NumPy · Pandas ·
+                                      scikit-learn · RAG
+
+           🐳 **DevOps**              Docker · GitHub Actions · CI/CD
+
+      🧠 **Computer Science**         DSA · OOP · Algorithms ·
+                                      Problem Solving
+
+:::
+
+🛠️ Technical Skills
+
+🎨 Frontend Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />{=html}
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />{=html}
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />{=html}
+
+</p>
+
+Focus: Responsive UI · Component Architecture · Accessibility ·
+Semantic HTML · Modern CSS · Client-side State · API Integration
+
+⚙️ Backend & API Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />{=html}
+
+</p>
+
+Backend Concepts
+
+RESTful API Design
+Authentication & Authorization
+JWT Authentication
+OAuth Concepts
+API Validation
+Middleware Architecture
+Error Handling
+Database Integration
+CRUD & Service Layers
+API Documentation
+Environment Configuration
+
+🗄️ Databases & Data Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />{=html}
+
+</p>
+
+ORM / ODM
+
+<p>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />{=html}
+
+</p>
+
+Database Concepts
+
+Relational Database Design
+NoSQL Data Modeling
+Schema Design
+Indexing
+Query Optimization
+Relationships
+Transactions
+Caching
+Data Validation
+
+🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />{=html}
+
+</p>
+
+AI / ML Interests
+
+Data Preprocessing
+Exploratory Data Analysis
+Feature Engineering
+Machine Learning
+Model Evaluation
+Natural Language Processing
+Embeddings
+Retrieval-Augmented Generation (RAG)
+Vector Search
+LLM-powered Applications
+AI API Integration
+
+🐳 DevOps & Cloud
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}
+
+</p>
+
+DevOps Concepts
+
+Containerization
+Docker Compose
+CI/CD Pipelines
+Automated Testing
+Environment Variables
+Deployment Workflows
+Version Control
+Branching Strategies
+
+🧠 Programming Languages & CS
+
+<p>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />{=html}
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />{=html}
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />{=html}
+
+</p>
+
+Core CS
+
+Data Structures
+Algorithms
+Object-Oriented Programming
+Problem Solving
+Complexity Analysis
+Database Fundamentals
+Software Engineering Principles
+
+🧰 Tools & Ecosystem
 
 <details>
-<summary>🧰 More tools I've worked with</summary>
-<br>
 
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat-square&logo=alpinedotjs&logoColor=%238BC0D0)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat-square&logo=framework7&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+<summary>
+
+<b>{=html}View More Technologies & Tools</b>{=html}
+
+</summary>
+
+<br>{=html}
+
+Frontend & Frameworks
+
+
+
+
+
+
+Backend & Web
+
+
+
+
+
+Data & Visualization
+
+
+
+
+
+Design & Productivity
+
+
+
+
+
+Development Environment
+
+
+
 
 
 </details>
 
-<br>
+📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<a href="https://github.com/ArafatBinIbrahim">
-  <img
+::: {align="center"}
+<a href="https://github.com/ArafatBinIbrahim">{=html} <img
     src="https://streak-stats.demolab.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true&border_radius=12"
     alt="GitHub Contribution Streak"
     height="180"
-  />
-</a>
+  />{=html} </a>{=html}
+:::
 
-</div>
+🐍 Contribution Activity
 
-<br>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
+::: {align="center"}
 <img
   src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
-/>
+/>{=html}
+:::
 
-</div>
+🎯 Current Focus
 
-<br>
+::: {align="center"}
 
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   🌐 Full-Stack Engineering                             │
+│   ⚙️  Scalable Backend & API Architecture               │
+│   🤖 AI/ML & RAG Applications                           │
+│   🗄️  Database Design & Optimization                    │
+│   🐳 Docker & CI/CD                                     │
+│   🧠 Data Structures & Algorithms                       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-<br>
+:::
 
-## 💭 Developer Mindset
+💡 Engineering Philosophy
 
-<div align="center">
+"Write code that is simple enough to understand, structured enough
+to maintain, and scalable enough to grow."
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-  alt="Developer Quote"
-  width="90%"
-/>
+I believe good software is not only about making something work.
 
-</div>
-## 🔗 Connect With Me
+It's about building systems that are:
 
-<div align="center">
+⚡ Performant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-14F195?style=for-the-badge&logo=googlechrome&logoColor=black)](https://arafatbinibrahim.github.io/NEw_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KaziArafatBinIbrahim24)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatibrahim667@gmail.com)
+🔐 Secure
 
-</div>
+🧩 Maintainable
 
----
+📈 Scalable
 
-<div align="center">
+🧪 Testable
 
-[![](https://komarev.com/ghpvc/?username=ArafatBinIbrahim&icon=0&color=0&style=flat-square)](https://visitcount.itsvg.in)
+👥 Collaborative
 
-<sub>Proudly created by Kazi Arafat Bin Ibrahim</sub>
+📚 Well documented
 
-</div>
+🤝 Let's Connect
+
+::: {align="center"}
+<a href="https://arafatbinibrahim.github.io/NEw_Portfolio/">{=html}
+<img src="https://img.shields.io/badge/🌐_Portfolio-14F195?style=for-the-badge&logoColor=black" />{=html}
+</a>{=html}
+
+<a href="https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
+</a>{=html}
+
+<a href="https://www.facebook.com/KaziArafatBinIbrahim24">{=html}
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />{=html}
+</a>{=html}
+
+<a href="mailto:arafatibrahim667@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />{=html}
+</a>{=html}
+:::
+
+::: {align="center"}
+<img src="https://komarev.com/ghpvc/?username=ArafatBinIbrahim&style=for-the-badge&color=14F195&label=PROFILE+VIEWS" />{=html}
+
+<br>{=html}<br>{=html}
+
+<sub>{=html}<b>{=html}Designed & developed by Kazi Arafat Bin
+Ibrahim</b>{=html}</sub>{=html}
+
+<br>{=html}
+
+<sub>{=html}Building • Learning • Experimenting •
+Shipping</sub>{=html}
+:::
