@@ -3,7 +3,7 @@ I'm a passionate Software Engineer, Full-Stack Developer, and AI/ML Engineer wit
 
 **Frontend:** React + TypeScript (UI)
 
-**Backend:** Node.js (with TypeScript) OR Python (API & Server-er jonno)
+**Backend:** Node.js (with TypeScript) OR Python (API & Server)
 
 **Database:** MongoDB (Data store)
 
