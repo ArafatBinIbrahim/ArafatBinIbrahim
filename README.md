@@ -118,31 +118,8 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <br>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ArafatBinIbrahim?tab=repositories">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6"
-    alt="GitHub Achievement Trophies"
-  />
-</a>
-
-</div>
 
 <br>
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-  alt="Developer Quote"
-/>
-
-</div>
 
 ## 💭 Developer Mindset
 
