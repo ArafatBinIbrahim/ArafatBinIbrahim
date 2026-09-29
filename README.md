@@ -95,7 +95,6 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br>
