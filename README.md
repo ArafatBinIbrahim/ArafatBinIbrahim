@@ -1,24 +1,51 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
-</a>
+# Kazi Arafat Bin Ibrahim
+
+**Full-Stack Developer || AI/ML Enthusiast**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-094119d6e492.gif" alt="Coding Banner" width="100%" />
 
 </div>
 
-## 👋 About Me
+<br>
 
-I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer with a growing focus on AI/ML engineering. I build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable backend systems.
+## About Me
 
-- 🖥️ **Frontend:** I work with React, Next.js, and TypeScript to build fast, accessible, and user-friendly interfaces using semantic HTML and modern CSS.
-- ⚙️ **Backend:** I build APIs and server-side logic using Node.js (TypeScript), Python, and Django, depending on the project's needs.
-- 🤖 **AI/ML:** I'm exploring intelligent systems — from data preprocessing to model development — with the goal of integrating practical AI features, including RAG-based tools, into real products.
-- 🐳 **DevOps:** I containerize applications with Docker, deploy to AWS, and set up CI/CD pipelines with GitHub Actions to automate testing and deployment.
-- 🧩 **Competitive Programming:** I regularly solve algorithmic problems on LeetCode and Codeforces to strengthen my understanding of data structures and algorithms.
-
-I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
+| Key | Information |
+| :--- | :--- |
+| **Role** | Full-Stack Developer & AI/ML Enthusiast |
+| **Location** | Dhaka, Bangladesh |
+| **Focus** | Web Development, AI/ML Integrations & Scalable Backend Systems |
+| **Education** | BSc. in Computer Science |
+| **Learning** | Practical AI/RAG integrations, DevOps & Advanced System Design |
 
 <br>
+
+<div align="center">
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Top+Languages&line1=JavaScript,40,JavaScript;Python,30,Python;&line2=HTML,15,HTML;CSS,10,CSS;TypeScript,5,TypeScript;&theme=dark" width="100%" alt="Top Languages Orbit" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-contribution-grid-snake.svg)
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -68,41 +95,19 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat-square&logo=alpinedotjs&logoColor=%238BC0D0)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat-square&logo=framework7&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 
 </details>
 
-<br>
+---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArafatBinIbrahim&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-<br><br>
-
-</div>
-
-## ✍️ Quote
+## ✍️ Random Dev Quote
 
 <div align="center">
 
@@ -110,18 +115,18 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 </div>
 
+---
+
 ## 🔗 Connect With Me
 
-<div align="center">
+| Platform | Link |
+| :--- | :--- |
+| **Portfolio** | [arafatbinibrahim.github.io](https://arafatbinibrahim.github.io/NEw_Portfolio/) |
+| **LinkedIn** | [kazi-arafat-bin-ibrahim](https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/) |
+| **Facebook** | [KaziArafatBinIbrahim24](https://www.facebook.com/KaziArafatBinIbrahim24) |
+| **Email** | [arafatibrahim667@gmail.com](mailto:arafatibrahim667@gmail.com) |
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-14F195?style=for-the-badge&logo=googlechrome&logoColor=black)](https://arafatbinibrahim.github.io/NEw_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KaziArafatBinIbrahim24)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatibrahim667@gmail.com)
-
-</div>
-
----
+<br>
 
 <div align="center">
 
