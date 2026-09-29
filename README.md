@@ -14,12 +14,17 @@
 
 ## 📌 About Me
 
+I design and build end-to-end web applications — turning clean, semantic frontend interfaces into scalable, production-ready systems on the backend. Currently deepening my focus on **distributed, event-driven architectures** and bringing practical **AI/ML features** into real products.
+
 <table>
-<tr><td><b>Role</b></td><td>Full-Stack Developer</td></tr>
-<tr><td><b>Location</b></td><td>Dhaka, Bangladesh</td></tr>
-<tr><td><b>Focus</b></td><td>Frontend architecture, and scalable systems</td></tr>
-<tr><td><b>Education</b></td><td>BSc. in Computer Science @ BRAC University</td></tr>
-<tr><td><b>Learning</b></td><td>Distributed systems · Event-driven architecture · Django & FastAPI ecosystem · AI/ML & RAG</td></tr>
+<tr><td>🧑‍💻&nbsp;<b>Role</b></td><td>Full-Stack Developer</td></tr>
+<tr><td>📍&nbsp;<b>Location</b></td><td>Dhaka, Bangladesh</td></tr>
+<tr><td>🎯&nbsp;<b>Focus</b></td><td>Frontend architecture & scalable backend systems</td></tr>
+<tr><td>🎓&nbsp;<b>Education</b></td><td>B.Sc. in Computer Science @ BRAC University</td></tr>
+<tr><td>🌱&nbsp;<b>Currently Learning</b></td><td>Distributed systems · Event-driven architecture · Django & FastAPI ecosystem · AI/ML & RAG</td></tr>
+<tr><td>🚀&nbsp;<b>Currently Building</b></td><td>Full-stack projects integrating AI-powered features into real-world products</td></tr>
+<tr><td>💬&nbsp;<b>Ask Me About</b></td><td>React · Next.js · Node.js · Python · System Design</td></tr>
+<tr><td>⚡&nbsp;<b>Fun Fact</b></td><td>I sharpen problem-solving skills daily by grinding algorithmic challenges on LeetCode & Codeforces</td></tr>
 </table>
 
 <br>
