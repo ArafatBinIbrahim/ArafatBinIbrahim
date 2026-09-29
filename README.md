@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,6 @@ I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer with a growing focus on AI/M
 - ⚙️ **Backend:** I build APIs and server-side logic using Node.js (TypeScript), Python, and Django, depending on the project's needs.
 - 🤖 **AI/ML:** I'm exploring intelligent systems — from data preprocessing to model development — with the goal of integrating practical AI features, including RAG-based tools, into real products.
 - 🐳 **DevOps:** I containerize applications with Docker and deploy, and set up CI/CD pipelines with GitHub Actions to automate testing and deployment.
-- 🧩 **Competitive Programming:** I regularly solve algorithmic problems on LeetCode and Codeforces to strengthen my understanding of data structures and algorithms.
 
 I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
 
