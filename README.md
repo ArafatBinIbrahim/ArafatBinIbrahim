@@ -10,19 +10,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=90&section=header" width="100%" alt="divider" />
 
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<img src="https://github.com/ArafatBinIbrahim.png" width="120" style="border-radius:55%" alt="Kazi Arafat Bin Ibrahim" />
-</td>
-<td valign="top">
-
 I'm **Kazi Arafat Bin Ibrahim**, a Software Engineer specialized in Full-Stack Development, and a Computer Science student at **BRAC University**, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
-I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
 
-</td>
-</tr>
-</table>
+I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
 
 <div align="center">
 
@@ -106,6 +96,8 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Languages & CS Fundamentals**
@@ -138,6 +130,8 @@ I'm always open to collaborating on interesting projects, contributing to open s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 </details>
 
@@ -147,9 +141,17 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 <br>
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatBinIbrahim&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
 </div>
 
 ## ✍️ Quote
