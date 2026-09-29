@@ -104,7 +104,7 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
 
 </div>
 
