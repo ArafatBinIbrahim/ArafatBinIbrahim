@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kazi Arafat Bin Ibrahim 👋</h1>
-<h3 align="center">Full-Stack Developer · AI/ML Enthusiast · Competitive Programmer</h3>
+<h3 align="center">Full-Stack Developer · AI/ML Enthusiast </h3>
 
 <p align="center">
   <a href="https://arafatbinibrahim.github.io/NEw_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
