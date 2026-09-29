@@ -50,8 +50,6 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Languages & CS Fundamentals**
@@ -84,8 +82,7 @@ I'm always open to collaborating on interesting projects, contributing to open s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 
 </details>
 
@@ -104,7 +101,6 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
