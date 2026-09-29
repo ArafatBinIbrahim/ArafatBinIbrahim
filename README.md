@@ -4,9 +4,14 @@
 I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer and Computer Science Major from BRAC University, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
 
 🖥️ Frontend — I build fast, accessible, and user-friendly interfaces with React, Next.js, and TypeScript, backed by semantic HTML and modern CSS.
+
 ⚙️ Backend — I design APIs and server-side logic with Node.js (TypeScript), Python, and Django, choosing the right tool for each project's needs.
+
 🤖 AI/ML — I explore intelligent systems end-to-end, from data preprocessing to model development, with a focus on integrating practical AI features — including RAG-based tools — into real products.
+
 🐳 DevOps — I containerize applications with Docker, deploy them to AWS, and automate testing and delivery with CI/CD pipelines using GitHub Actions.
+
+
 🧩 Problem Solving — I sharpen my grasp of data structures and algorithms by regularly solving challenges on LeetCode and Codeforces.
 
 I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
