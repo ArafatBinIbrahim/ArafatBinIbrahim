@@ -88,31 +88,57 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/ArafatBinIbrahim">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=12"
+    alt="GitHub Statistics"
+  />
+</a>
 
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatBinIbrahim&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<a href="https://github.com/ArafatBinIbrahim">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=ArafatBinIbrahim&theme=radical&hide_border=true&border_radius=12"
+    alt="GitHub Contribution Streak"
+  />
+</a>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<a href="https://github.com/ArafatBinIbrahim">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatBinIbrahim&layout=compact&langs_count=10&theme=radical&hide_border=true&border_radius=12"
+    alt="Most Used Programming Languages"
+  />
+</a>
+
+<br><br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
+  alt="GitHub Achievement Trophies"
+/>
 
 </div>
 
-## ✍️ Quote
+---
+
+## 💭 Developer Mindset
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  alt="Developer Quote"
+/>
 
 </div>
-
 ## 🔗 Connect With Me
 
 <div align="center">
