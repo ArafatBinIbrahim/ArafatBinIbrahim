@@ -17,9 +17,13 @@ I'm always open to collaborating on interesting projects, contributing to open s
 ## 🛠️ Tech Stack
 
 **Frontend:** React · Next.js · TypeScript · HTML5 · CSS3
+
 **Backend:** Node.js (TypeScript) · Python
+
 **Database:** MongoDB, Django
+
 **AI/ML:** Python (data preprocessing, model development, RAG)
+
 **DevOps:** Docker · CI/CD (GitHub Actions)
 
 ## 🔗 Connect
