@@ -18,7 +18,6 @@
 <td valign="top">
 
 I'm **Kazi Arafat Bin Ibrahim**, a Software Engineer specialized in Full-Stack Development, and a Computer Science student at **BRAC University**, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
-
 I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
 
 </td>
@@ -152,6 +151,7 @@ I'm always open to collaborating on interesting projects, contributing to open s
 <br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatBinIbrahim&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 ## ✍️ Quote
 
 <div align="center">
