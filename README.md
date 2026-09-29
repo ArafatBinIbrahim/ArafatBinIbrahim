@@ -1,17 +1,13 @@
 <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kazi+Arafat+Bin+Ibrahim;Full-Stack+Developer;AI%2FML+Enthusiast;B.Sc.+CS+%40+BRAC+University" alt="Typing SVG" /> </a> </div>
 👋 About Me
 
-I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer and Computer Science Major from BRAC University, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
+I'm Kazi Arafat Bin Ibrahim, a Software Engineer specialized in Full-Stack Development, and a Computer Science student at BRAC University, with a growing focus on AI/ML engineering. I design and build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable, production-ready backend systems.
 
 🖥️ Frontend — I build fast, accessible, and user-friendly interfaces with React, Next.js, and TypeScript, backed by semantic HTML and modern CSS.
-
 ⚙️ Backend — I design APIs and server-side logic with Node.js (TypeScript), Python, and Django, choosing the right tool for each project's needs.
-
+🗄️ Database — I model and manage data using MongoDB and MySQL, picking the right fit between NoSQL flexibility and relational structure depending on the use case.
 🤖 AI/ML — I explore intelligent systems end-to-end, from data preprocessing to model development, with a focus on integrating practical AI features — including RAG-based tools — into real products.
-
-🐳 DevOps — I containerize applications with Docker, deploy them to AWS, and automate testing and delivery with CI/CD pipelines using GitHub Actions.
-
-
+🐳 DevOps — I containerize applications with Docker, deploy them to hosting site, and automate testing and delivery with CI/CD pipelines using GitHub Actions.
 🧩 Problem Solving — I sharpen my grasp of data structures and algorithms by regularly solving challenges on LeetCode and Codeforces.
 
 I'm always open to collaborating on interesting projects, contributing to open source, and connecting with like-minded developers in the tech community.
