@@ -2,11 +2,13 @@
 
 # Kazi Arafat Bin Ibrahim
 
-**Full-Stack Developer || AI/ML Enthusiast**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-094119d6e492.gif" alt="Coding Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Banner Animation" />
 
 </div>
 
@@ -14,29 +16,30 @@
 
 ## About Me
 
-| Key | Information |
+| Attribute | Details |
 | :--- | :--- |
-| **Role** | Full-Stack Developer & AI/ML Enthusiast |
+| **Role** | Full-Stack Developer & AI/ML Engineer |
 | **Location** | Dhaka, Bangladesh |
-| **Focus** | Web Development, AI/ML Integrations & Scalable Backend Systems |
-| **Education** | BSc. in Computer Science |
-| **Learning** | Practical AI/RAG integrations, DevOps & Advanced System Design |
+| **Focus** | Web Applications, Scalable Backend Architecture & Practical AI/RAG Tools |
+| **Learning** | Intelligent Systems, Distributed Systems & Advanced Data Structures |
 
 <br>
-
-<div align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Top+Languages&line1=JavaScript,40,JavaScript;Python,30,Python;&line2=HTML,15,HTML;CSS,10,CSS;TypeScript,5,TypeScript;&theme=dark" width="100%" alt="Top Languages Orbit" />
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-contribution-grid-snake.svg)
+<!-- Top Languages 3D Planet Graph -->
+<img src="https://github-readme-3d-stats.vercel.app/api?username=ArafatBinIbrahim&theme=dark" width="100%" alt="3D Stats" />
+
+<br><br>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake activity" src="https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <br><br>
 
@@ -45,67 +48,19 @@
 
 </div>
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, HTML5, CSS3, TailwindCSS, Bootstrap |
+| **Backend** | Node.js, Python, Django, PHP, .NET |
+| **Database** | MongoDB, MySQL |
+| **DevOps & Cloud** | Docker, AWS, GitHub Actions, Git |
+| **Languages & CS** | C, C++, Java, JavaScript |
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Languages & CS Fundamentals**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>🧰 More tools I've worked with</summary>
 <br>
-
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat-square&logo=alpinedotjs&logoColor=%238BC0D0)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
-</details>
-
----
 
 ## ✍️ Random Dev Quote
 
@@ -115,18 +70,20 @@
 
 </div>
 
----
+<br>
 
 ## 🔗 Connect With Me
 
 | Platform | Link |
 | :--- | :--- |
-| **Portfolio** | [arafatbinibrahim.github.io](https://arafatbinibrahim.github.io/NEw_Portfolio/) |
-| **LinkedIn** | [kazi-arafat-bin-ibrahim](https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/) |
-| **Facebook** | [KaziArafatBinIbrahim24](https://www.facebook.com/KaziArafatBinIbrahim24) |
+| **Portfolio** | [arafatbinibrahim.github.io/NEw_Portfolio](https://arafatbinibrahim.github.io/NEw_Portfolio/) |
+| **LinkedIn** | [linkedin.com/in/kazi-arafat-bin-ibrahim](https://www.linkedin.com/in/kazi-arafat-bin-ibrahim-a48729370/) |
+| **Facebook** | [facebook.com/KaziArafatBinIbrahim24](https://www.facebook.com/KaziArafatBinIbrahim24) |
 | **Email** | [arafatibrahim667@gmail.com](mailto:arafatibrahim667@gmail.com) |
 
 <br>
+
+---
 
 <div align="center">
 
