@@ -26,7 +26,7 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
-![Frontend](https://img.shields.io/badge/-Frontend-14F195?style=flat-square&labelColor=1a1a1a)
+![Frontend](https://img.shields.io/badge/-Frontend-4DABF7?style=flat-square&labelColor=1a1a1a)
 ![Backend](https://img.shields.io/badge/-Backend-9945FF?style=flat-square&labelColor=1a1a1a)
 ![Database](https://img.shields.io/badge/-Database-00BCD4?style=flat-square&labelColor=1a1a1a)
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6B6B?style=flat-square&labelColor=1a1a1a)
