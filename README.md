@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer with a growing focus on AI/ML engineering. I build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable backend systems.
+I'm Kazi Arafat Bin Ibrahim, a Full-Stack Developer with a growing focus on AI/ML engineering from Brac University. I build responsive, end-to-end web applications — from clean, semantic frontend interfaces to scalable backend systems.
 
 - 🖥️ **Frontend:** I work with React, Next.js, and TypeScript to build fast, accessible, and user-friendly interfaces using semantic HTML and modern CSS.
 - ⚙️ **Backend:** I build APIs and server-side logic using Node.js (TypeScript), Python, and Django, depending on the project's needs.
