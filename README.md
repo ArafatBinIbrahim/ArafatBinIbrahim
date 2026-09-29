@@ -96,27 +96,7 @@ I'm always open to collaborating on interesting projects, contributing to open s
 <a href="https://github.com/ArafatBinIbrahim">
   <img
     src="https://streak-stats.demolab.com/?user=ArafatBinIbrahim&theme=radical&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-    height="180"
-  />
-</a>
-
-<br><br>
-
-<!-- GitHub Stats -->
-<a href="https://github.com/ArafatBinIbrahim">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ArafatBinIbrahim&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=12"
-    alt="GitHub Statistics"
-    height="180"
-  />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/ArafatBinIbrahim">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatBinIbrahim&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=12"
-    alt="Most Used Programming Languages"
+    alt="GitHub Contribution Streak"
     height="180"
   />
 </a>
@@ -125,14 +105,13 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <br>
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ArafatBinIbrahim&theme=react-dark&hide_border=true&area=true&radius=8"
-  alt="GitHub Contribution Activity Graph"
-  width="95%"
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
@@ -143,15 +122,27 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6"
-  alt="GitHub Achievement Trophies"
-  width="95%"
-/>
+<a href="https://github.com/ArafatBinIbrahim?tab=repositories">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6"
+    alt="GitHub Achievement Trophies"
+  />
+</a>
 
 </div>
 
 <br>
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  alt="Developer Quote"
+/>
+
+</div>
 
 ## 💭 Developer Mindset
 
