@@ -151,7 +151,7 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
-```mermaid
+
 flowchart LR
     A[💻 Code] --> B[🐙 GitHub]
     B --> C{⚙️ GitHub Actions<br/>CI/CD}
