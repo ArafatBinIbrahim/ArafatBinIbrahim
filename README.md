@@ -187,15 +187,11 @@ flowchart LR
 
 <br>
 
-## 🐍 Contribution Snake
+## 🚀 Ship It
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArafatBinIbrahim/ArafatBinIbrahim/output/github-snake.svg" />
-</picture>
+<img src="./deploy-animation.svg" alt="Animated deployment terminal" width="100%" />
 
 </div>
 
