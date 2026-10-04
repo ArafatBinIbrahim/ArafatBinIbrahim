@@ -151,31 +151,19 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-
-<br>
-
-⬇️ <sub><b>auto deploy (CI/CD)</b></sub>
-
-<br>
-
-<img src="https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-&nbsp;⇄&nbsp;
-<img src="https://img.shields.io/badge/Render-Backend%20API-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-
-<br>
-
-⬇️ <sub><b>data &amp; media</b></sub>
-
-<br>
-
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+```mermaid
+flowchart LR
+    A[💻 Code] --> B[🐙 GitHub]
+    B --> C{⚙️ GitHub Actions<br/>CI/CD}
+    C -->|Frontend| D[▲ Vercel]
+    C -->|Backend API| E[🟢 Render]
+    E --> F[(🗄️ MongoDB / MySQL)]
+    E --> G[🖼️ Cloudinary<br/>Media Storage]
+    D -->|REST / fetch| E
+    style D fill:#000,stroke:#fff,color:#fff
+    style E fill:#46E3B7,stroke:#000,color:#000
+    style G fill:#3448C5,stroke:#fff,color:#fff
+```
 
 </div>
 
