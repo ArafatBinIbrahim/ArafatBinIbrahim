@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ArafatBinIbrahim&label=Profile+Views&color=9945FF&style=for-the-badge" alt="views" />
+<img src="https://hits.sh/github.com/ArafatBinIbrahim.svg?style=for-the-badge&label=Profile%20Views&color=9945FF&labelColor=1a1a1a" alt="views" />
 <img src="https://img.shields.io/github/followers/ArafatBinIbrahim?style=for-the-badge&logo=github&color=14F195&labelColor=1a1a1a" alt="followers" />
 <img src="https://img.shields.io/github/stars/ArafatBinIbrahim?style=for-the-badge&logo=github&color=9945FF&labelColor=1a1a1a" alt="stars" />
 
@@ -181,11 +181,7 @@ flowchart LR
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArafatBinIbrahim&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafatBinIbrahim&theme=react-dark&hide_border=true&area=true&color=14F195&line=9945FF&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="100%" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/?username=ArafatBinIbrahim&theme=radical&hide_border=true&show_icons=true&count_private=false" alt="GitHub Stats" />
 
 </div>
 
