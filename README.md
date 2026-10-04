@@ -151,19 +151,24 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <div align="center">
 
-
-flowchart LR
-    A[💻 Code] --> B[🐙 GitHub]
-    B --> C{⚙️ GitHub Actions<br/>CI/CD}
-    C -->|Frontend| D[▲ Vercel]
-    C -->|Backend API| E[🟢 Render]
-    E --> F[(🗄️ MongoDB / MySQL)]
-    E --> G[🖼️ Cloudinary<br/>Media Storage]
-    D -->|REST / fetch| E
-    style D fill:#000,stroke:#fff,color:#fff
-    style E fill:#46E3B7,stroke:#000,color:#000
-    style G fill:#3448C5,stroke:#fff,color:#fff
-
+<table>
+<tr>
+<td align="center" width="130">💻<br/><b>Code</b><br/><sub>VS Code</sub></td>
+<td align="center">➜</td>
+<td align="center" width="130">🐙<br/><b>GitHub</b><br/><sub>Version Control</sub></td>
+<td align="center">➜</td>
+<td align="center" width="130">⚙️<br/><b>GitHub Actions</b><br/><sub>CI/CD</sub></td>
+<td align="center">➜</td>
+<td align="center" width="130">▲<br/><b>Vercel</b><br/><sub>Frontend</sub></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td align="center">➜</td>
+<td align="center" width="130">🟢<br/><b>Render</b><br/><sub>Backend API</sub></td>
+<td align="center">➜</td>
+<td align="center" width="130">🗄️ 🖼️<br/><b>MongoDB / MySQL</b><br/><sub>+ Cloudinary Media</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -187,6 +192,10 @@ flowchart LR
 
 <br>
 
+<!--
+  ✅ Uncomment this section ONLY after the "Generate Snake Animation" workflow
+  has run successfully and the `output` branch exists in this repo.
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -200,6 +209,7 @@ flowchart LR
 </div>
 
 <br>
+-->
 
 ## ✍️ Quote
 
