@@ -192,10 +192,6 @@ I'm always open to collaborating on interesting projects, contributing to open s
 
 <br>
 
-
-  ✅ Uncomment this section ONLY after the "Generate Snake Animation" workflow
-  has run successfully and the `output` branch exists in this repo.
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -209,7 +205,6 @@ I'm always open to collaborating on interesting projects, contributing to open s
 </div>
 
 <br>
-
 
 ## ✍️ Quote
 
