@@ -17,7 +17,7 @@
 
 <br>
 
-## 👋 About Me
+## 👋 Me->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=90&section=header" width="100%" alt="divider" />
 
