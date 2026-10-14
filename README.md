@@ -195,13 +195,6 @@ flowchart LR
 
 <br>
 
-## ✍️ Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 🔗 Connect With Me
 
